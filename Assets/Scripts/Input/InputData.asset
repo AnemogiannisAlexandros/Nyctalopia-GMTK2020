@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eb23dbdbc231f44992d4e215245cd99, type: 3}
+  m_Name: InputData
+  m_EditorClassIdentifier: 
+  cameraSwitchLeftKey: 101
+  cameraSwitchRightKey: 113
+  rotatePlayerLeft: 97
+  rotatePlayerRight: 100
+  movePlayerForward: 119
+  movePlayerBackwards: 115
+  sendQueueStraight: 273
+  sendQueueRight: 275
+  sendQueueLeft: 276
+  sendQueueBackward: 274
